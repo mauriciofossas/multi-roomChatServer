@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/cse330-fall-2019/module6-group-m6_dane_mau#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "lodash": "^4.17.15",
     "mysql": "^2.17.1",
     "password-hash": "^1.2.2",
